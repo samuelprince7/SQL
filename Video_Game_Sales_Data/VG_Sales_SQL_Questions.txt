@@ -1,0 +1,16 @@
+#Please note that POPULARITY refers to GLOBAL_SALES.
+#i.e. The higher global_sales is, the more popular the Video Game / Publisher is.
+
+1. Please write a query that selects the top 10 Video Game Publishers that are most popular 
+2. Please write a query that shows which Platform is the most popular and order this in descending order 
+3. Please write a query that shows which Year and Platform had the most video games sold
+4. Please write a query that shows which genre has had the most games produced for it
+5. Please write a query that shows which Video Game Publisher has produced the most games in descending order?
+
+Easy to Moderate Difficulty Queries 
+6. Please write a query that shows which Video Games for Electronic Arts or Activision brought in at least 5M Sales, Order this by Publisher and Sales
+7. Please write a query that shows the count of how many Video Games have had Sales > 5M, the total sales for those video games, having been published by Electronic Arts, Nintendo, Activision or Ubisoft
+8. Please write a query that shows the *percentage* of Revenues (Global_Sales) contribution that each Publisher has contributed. Please ensure that you round the Global_Sales and Percentage Contributions to 2 Decimal Places and Order the Query by the Global Sales.
+9. Please write a query that shows the *percentage* of Video Games developed for each Platform. Don't forget to round the Percetange to 2 Decimal Places.
+10. Please write a query that shows the *percentage* of Video Games developed for each Genre as well as the Total Revenues (Global_Sales). Don't forget to round the Percetange to 2 Decimal Places.
+11. Please write a query that shows the *percentage* of Video Games developed for each Platform with respect to Electronic Arts, Nintendo, Activision and Ubisoft 
