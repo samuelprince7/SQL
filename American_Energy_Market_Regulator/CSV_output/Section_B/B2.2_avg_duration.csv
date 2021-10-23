@@ -1,0 +1,9 @@
+Status,Reason,Year,Avg_Outage_MW_Loss,Average_Outage_Duration_Time_Minutes
+Approved,Consequential,2016,53.06,518.78
+Approved,Forced,2016,55.62,812.92
+Approved,Opportunistic Maintenance (Planned),2016,103.66,456.51
+Approved,Scheduled (Planned),2016,99.10,6582.32
+Approved,Consequential,2017,51.03,481.89
+Approved,Forced,2017,50.56,1144.09
+Approved,Opportunistic Maintenance (Planned),2017,84.40,387.35
+Approved,Scheduled (Planned),2017,85.47,8034.75
