@@ -1,0 +1,9 @@
+Status,Reason,Total_Number_Outage_Events,Average_Outage_Duration_Time_Days,Year
+Approved,Consequential,181,0.36,2016
+Approved,Consequential,127,0.33,2017
+Approved,Forced,1264,0.56,2016
+Approved,Forced,1622,0.79,2017
+Approved,Opportunistic Maintenance (Planned),106,0.32,2016
+Approved,Opportunistic Maintenance (Planned),102,0.27,2017
+Approved,Scheduled (Planned),380,4.57,2016
+Approved,Scheduled (Planned),320,5.58,2017

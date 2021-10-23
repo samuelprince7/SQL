@@ -1,0 +1,49 @@
+Status,Reason,Total_Number_Outage_Events,Month
+Approved,Consequential,12,1
+Approved,Forced,70,1
+Approved,Opportunistic Maintenance (Planned),9,1
+Approved,Scheduled (Planned),12,1
+Approved,Consequential,27,2
+Approved,Forced,97,2
+Approved,Opportunistic Maintenance (Planned),6,2
+Approved,Scheduled (Planned),20,2
+Approved,Consequential,19,3
+Approved,Forced,53,3
+Approved,Opportunistic Maintenance (Planned),7,3
+Approved,Scheduled (Planned),30,3
+Approved,Consequential,12,4
+Approved,Forced,73,4
+Approved,Opportunistic Maintenance (Planned),8,4
+Approved,Scheduled (Planned),34,4
+Approved,Consequential,5,5
+Approved,Forced,109,5
+Approved,Opportunistic Maintenance (Planned),9,5
+Approved,Scheduled (Planned),47,5
+Approved,Consequential,8,6
+Approved,Forced,168,6
+Approved,Opportunistic Maintenance (Planned),7,6
+Approved,Scheduled (Planned),17,6
+Approved,Consequential,1,7
+Approved,Forced,183,7
+Approved,Opportunistic Maintenance (Planned),5,7
+Approved,Scheduled (Planned),22,7
+Approved,Consequential,2,8
+Approved,Forced,173,8
+Approved,Opportunistic Maintenance (Planned),14,8
+Approved,Scheduled (Planned),23,8
+Approved,Consequential,10,9
+Approved,Forced,133,9
+Approved,Opportunistic Maintenance (Planned),7,9
+Approved,Scheduled (Planned),18,9
+Approved,Consequential,11,10
+Approved,Forced,207,10
+Approved,Opportunistic Maintenance (Planned),8,10
+Approved,Scheduled (Planned),50,10
+Approved,Consequential,9,11
+Approved,Forced,146,11
+Approved,Opportunistic Maintenance (Planned),16,11
+Approved,Scheduled (Planned),27,11
+Approved,Consequential,11,12
+Approved,Forced,210,12
+Approved,Opportunistic Maintenance (Planned),6,12
+Approved,Scheduled (Planned),20,12

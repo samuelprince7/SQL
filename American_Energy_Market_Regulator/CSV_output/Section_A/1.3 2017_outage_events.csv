@@ -1,0 +1,5 @@
+Total_Number_Outage_Events,Status,Reason
+127,Approved,Consequential
+1622,Approved,Forced
+102,Approved,Opportunistic Maintenance (Planned)
+320,Approved,Scheduled (Planned)
