@@ -1,7 +1,8 @@
 SELECT pk,
 	publisher,
-    global_sales
+    SUM(global_sales)
 FROM VG_Sales
-WHERE publisher = 'Electronic Arts' AND global_sales >= 5.0 OR publisher = 'Activision' AND global_sales >= 5.0 
-GROUP BY pk
-ORDER BY publisher, global_sales 
+WHERE publisher = 'Electronic Arts' OR publisher = 'Activision' 
+GROUP BY pk, publisher
+HAVING SUM(global_sales) >= 5.0 
+ORDER BY publisher, SUM(global_sales)
