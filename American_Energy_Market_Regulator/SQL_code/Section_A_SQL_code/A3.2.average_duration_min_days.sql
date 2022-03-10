@@ -6,5 +6,5 @@ SELECT
 
 FROM AEMR
 WHERE Status = 'Approved' AND Year(Start_Time) IN ('2016','2017')
-GROUP BY Participant_Code, Year
+GROUP BY Participant_Code, Status, Year
 ORDER BY Year, Average_Outage_Duration_Time_Days DESC;
